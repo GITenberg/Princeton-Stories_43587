@@ -1,0 +1,33 @@
+_repo: Princeton-Stories_43587
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43587-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Williams, Jesse Lynch
+    birthdate: 1871
+    deathdate: 1929
+    gutenberg_agent_id: '37371'
+    url: http://www.gutenberg.org/2009/agents/37371
+    wikipedia: http://en.wikipedia.org/wiki/Jesse_Lynch_Williams
+description: ''
+gutenberg_issued: '2013-08-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43587'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Princeton (N.J.) -- Social life and customs -- Fiction'
+- !lcsh 'College stories, American'
+- !lcc 'PS'
+- !lcsh 'Princeton University -- Fiction'
+tableOfContents: The winning of the cane -- The madness of Poler Stacy -- The hazing
+  of Valliant -- Hero worship -- The responsibility of Lawrence -- Fixing that freshman
+  -- The scrub quarter-back -- When girls come to Princeton -- The little tutor --
+  College men -- The man that led the class.
+title: Princeton Stories
+url: http://www.gutenberg.org/ebooks/43587
